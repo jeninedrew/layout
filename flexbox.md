@@ -1,4 +1,6 @@
-# Flexbox basics
+# Flexbox
+
+## Resources
 
 http://flexboxfroggy.com/
 

@@ -4,15 +4,13 @@
 
 http://cssgridgarden.com/
 
-http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid?utm_source=frontendfocus&utm_medium=email
+http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid
 
 https://aneventapart.com/news/post/css-grid-layout-by-rachel-andrewan-event-apart-video
 
-https://cssgrid.cc/?utm_source=frontendfocus&utm_medium=email
+https://cssgrid.cc/
 
-https://cssgrid.cc/?utm_source=frontendfocus&utm_medium=email
-
-http://csskarma.com/blog/css-grid-layout/amp
+http://csskarma.com/blog/css-grid-layout
 
 ## The Basics
 

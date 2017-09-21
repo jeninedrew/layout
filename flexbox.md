@@ -2,11 +2,13 @@
 
 ## Resources
 
-http://flexboxfroggy.com/
+https://madebymike.com.au/demos/flexbox-tester/
 
 https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
 
 https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676
+
+http://flexboxfroggy.com/
 
 ## The Basics
 

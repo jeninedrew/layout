@@ -2,9 +2,7 @@
 
 ## Resources
 
-http://cssgridgarden.com/
-
-https://gridbyexample.com/
+https://gridbyexample.com/ ***
 
 http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid
 
@@ -18,9 +16,13 @@ http://csskarma.com/blog/css-grid-layout
 
 https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks
 
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
 https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/
 
 https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676
+
+http://cssgridgarden.com/
 
 ## The Basics
 

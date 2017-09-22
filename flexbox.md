@@ -8,6 +8,8 @@ https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
 
 https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676
 
+https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af
+
 http://flexboxfroggy.com/
 
 ## The Basics

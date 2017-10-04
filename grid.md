@@ -8,6 +8,8 @@ http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid
 
 http://varun.ca/css-grid-2/
 
+https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/
+
 https://aneventapart.com/news/post/css-grid-layout-by-rachel-andrewan-event-apart-video
 
 https://cssgrid.cc/

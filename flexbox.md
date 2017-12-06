@@ -2,6 +2,8 @@
 
 ## Resources
 
+https://geddski.teachable.com/p/flexbox-zombies
+
 https://madebymike.com.au/demos/flexbox-tester/
 
 https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties

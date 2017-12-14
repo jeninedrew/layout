@@ -2,6 +2,8 @@
 
 ## Resources
 
+https://www.sketchingwithcss.com/samplechapter/cheatsheet.html
+
 https://geddski.teachable.com/p/flexbox-zombies
 
 https://madebymike.com.au/demos/flexbox-tester/

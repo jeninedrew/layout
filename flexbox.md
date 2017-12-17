@@ -2,6 +2,8 @@
 
 ## Resources
 
+https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
+
 https://www.sketchingwithcss.com/samplechapter/cheatsheet.html
 
 https://geddski.teachable.com/p/flexbox-zombies
